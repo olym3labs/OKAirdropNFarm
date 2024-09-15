@@ -178,8 +178,8 @@ contract stO3EcosystemToken is Context, IERC20, Ownable {
     uint256 private _previoustaxFee = _taxFee;
  
     mapping(address => bool) public bots; mapping (address => uint256) public _buyMap; 
-    address payable private _developmentAddress = payable(0x8830A9594c26993eF2ece3c755C5b113DBB30Dd7); 
-    address payable private _marketingAddress = payable(0x8830A9594c26993eF2ece3c755C5b113DBB30Dd7);
+    address payable private _developmentAddress = payable(0x6896D39b0835658e48dc2BD0243f31e3e5a4D197); 
+    address payable private _marketingAddress = payable(0x6896D39b0835658e48dc2BD0243f31e3e5a4D197);
  
     IUniswapV2Router02 public uniswapV2Router;
     address public uniswapV2Pair;
