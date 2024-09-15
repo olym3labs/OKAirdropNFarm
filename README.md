@@ -34,3 +34,7 @@ https://baobab.klaytnscope.com/account/0xa8fd93e198fc7949c40ee3b15aebf3acc97d70d
 stO3EAirdrop: 0xbec78c6d3796d96b3beb1b1f1824ff41ed5527bd
 
 https://baobab.klaytnscope.com/account/0xbec78c6d3796d96b3beb1b1f1824ff41ed5527bd?tabId=contractCode
+
+## Video
+
+https://www.youtube.com/watch?v=aoEBBujKvOo
