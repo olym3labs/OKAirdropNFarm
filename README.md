@@ -19,18 +19,18 @@ https://baobab.klaytnscope.com/account/0xFd04cC12e8F5B50cF228c3ECd1B5064fe2e2de7
 
 ## Token
 
-stO3EcosystemToken: 0xd141a92dd9c259f5db9125976de36f8cd5eb1eb0
+stO3EcosystemToken: 0xea129eb38b8a1b69eb6fb8e46d7c3f4315f74c2c
 
-https://baobab.klaytnscope.com/account/0xd141a92dd9c259f5db9125976de36f8cd5eb1eb0?tabId=contractCode
+https://baobab.klaytnscope.com/account/0xea129eb38b8a1b69eb6fb8e46d7c3f4315f74c2c?tabId=contractCode
 
 ## Farming
 
-stO3EcosystemFarming: 0x0f2ffb4a0cbde509e4831b03c114df87852e63af
+stO3EcosystemFarming: 0xa8fd93e198fc7949c40ee3b15aebf3acc97d70d7
 
-https://baobab.klaytnscope.com/account/0x0f2ffb4a0cbde509e4831b03c114df87852e63af?tabId=contractCode
+https://baobab.klaytnscope.com/account/0xa8fd93e198fc7949c40ee3b15aebf3acc97d70d7?tabId=contractCode
 
 ## Airdrop Contract:
 
-stO3EAirdrop: 0x6f4b44b2e19a100b3a84de32a563ef33341a7f09
+stO3EAirdrop: 0xbec78c6d3796d96b3beb1b1f1824ff41ed5527bd
 
-https://baobab.klaytnscope.com/account/0x6f4b44b2e19a100b3a84de32a563ef33341a7f09?tabId=contractCode
+https://baobab.klaytnscope.com/account/0xbec78c6d3796d96b3beb1b1f1824ff41ed5527bd?tabId=contractCode
