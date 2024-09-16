@@ -35,6 +35,13 @@ stO3EAirdrop: 0xbec78c6d3796d96b3beb1b1f1824ff41ed5527bd
 
 https://baobab.klaytnscope.com/account/0xbec78c6d3796d96b3beb1b1f1824ff41ed5527bd?tabId=contractCode
 
+
+## O3E Reward:
+
+O3E Reward: 0x36120de4845fd3dfef9981f46d2bbf8e8ac20969
+
+https://baobab.klaytnscope.com/account/0x36120de4845fd3dfef9981f46d2bbf8e8ac20969?tabId=contractCode
+
 ## Video
 
 https://www.youtube.com/watch?v=aoEBBujKvOo
