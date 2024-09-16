@@ -38,9 +38,9 @@ https://baobab.klaytnscope.com/account/0xbec78c6d3796d96b3beb1b1f1824ff41ed5527b
 
 ## O3E Reward:
 
-O3E Reward: 0x36120de4845fd3dfef9981f46d2bbf8e8ac20969
+O3E Reward: 0xb02721869b24d6966f06b93c0db2a452e510c9c9
 
-https://baobab.klaytnscope.com/account/0x36120de4845fd3dfef9981f46d2bbf8e8ac20969?tabId=contractCode
+https://baobab.klaytnscope.com/account/0xb02721869b24d6966f06b93c0db2a452e510c9c9?tabId=contractCode
 
 ## Video
 
