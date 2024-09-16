@@ -37,6 +37,18 @@ export const getAirdropContract = () => {
     return contract
 }
 
+export const getRewardContract = () => {
+    const provider = new ethers.providers.Web3Provider(window.ethereum)
+    const signer = provider.getSigner()
+    const contractABI = require('../utils/abis/Reward.json')
+    const contract = new ethers.Contract(
+        ADDRESSES.REWARD_ADDRESS,
+        contractABI,
+        signer,
+    )
+    return contract
+}
+
 export const getProvider = () => {
     const provider = new ethers.providers.Web3Provider(window.ethereum)
     const signer = provider.getSigner()
